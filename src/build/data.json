@@ -1,0 +1,33 @@
+[
+    {
+        "petName": "Spice",
+        "ownerName": "Gab1",
+        "aptNotes": "Spice's turn.",
+        "aptDate": "2021-01-28 13:30"
+    },
+    {
+        "petName": "Datu",
+        "ownerName": "Gab2",
+        "aptNotes": "Datu's turn.",
+        "aptDate": "2021-01-28 10:15"
+    },
+    {
+        "petName": "Mosky",
+        "ownerName": "Gab3",
+        "aptNotes": "Mosky's turn.",
+        "aptDate": "2021-01-28 14:45"
+    },
+    {
+        "petName": "Johnnie",
+        "ownerName": "Gab4",
+        "aptNotes": "Johnnie's turn.",
+        "aptDate": "2021-01-28 16:00"
+    },
+    {
+        "petName": "Ginger",
+        "ownerName": "Gab5",
+        "aptNotes": "Ginger's turn.",
+        "aptDate": "2021-01-28 16:30"
+    }
+]
+
